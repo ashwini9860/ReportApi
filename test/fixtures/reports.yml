@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  total_cost: MyString
+  total_usage: MyString
+  total_bill: MyString
+
+two:
+  total_cost: MyString
+  total_usage: MyString
+  total_bill: MyString
